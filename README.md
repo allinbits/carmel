@@ -70,3 +70,8 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
 
  * All contributed processes and information belong to their respective original owners.
 
+---------------------------------
+
+# Resources
+
+ * https://twitter.com/jaekwon/status/1676530097308966912?s=20
