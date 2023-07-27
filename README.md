@@ -37,7 +37,7 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
  * Once you have the sealer's key, you can decrypt the data. (encrypted)
  * Once unsealed, you know that the sealer sealed the data. (authentic)
  * Each party and the moderator propose portions of the conversation (and files) to seal, or black out, before publishing.
- * The reason for each sealing is also recorded and sealed separately.
+ * The reason for each sealing is also recorded separately.
  * The moderator decides in accordance with jurisdiction of choice.
 
 # Step 4. Narrative Resolution
