@@ -1,4 +1,6 @@
-"# Project Lighthouse (Alexandria?)
+# Project Lighthouse
+
+Project Lighthouse is conceptually linked to Project Carmel. They may appear as separate entities, but both projects can potentially share similar technical foundations. While Carmel is focused on debates, Lighthouse takes those principles and applies them to the management of a knowledge base. The underlying architecture can be similar, promoting synergies and allowing both projects to benefit from shared enhancements and updates.
 
 Draft spec, please provide feedback in the form of pull requests and issues to github.com/allinbits/carmel.
 
@@ -17,7 +19,7 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
 
 ## Step 2. Submission of Arguments and Evidence
 
- * For each approved topic, contributors can submit arguments, counter-arguments, and evidence.
+ * contributors can submit arguments, counter-arguments, and evidence for each approved topic.
  * Contributors are expected to cite sources where applicable.
  * The curator(s) organizes and categorizes the submitted information.
  * All contributions remain uncensored, but the curator(s) may provide a framework for the information to promote understanding.
@@ -32,7 +34,7 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
 ## Step 4. Debunking and Discussing
 
  * Contributors can refute existing arguments, provide new insights, and debate the evidence.
- * All discussions are expected to be fact-based, respectful, and focused on debunking misconceptions.
+ * All discussions must be fact-based, respectful, and focused on debunking misconceptions.
  * The curator(s) intervene if discussions go off-topic or become non-constructive.
  * Curators provide summary statements to encapsulate progress and breakthroughs in understanding.
 
@@ -55,11 +57,10 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
 # Extra B. IP Rights
 
  * All contributed arguments, evidence, and discussions belong to their respective original owners.
- * Contributors grant a license for their contributions to be used within the knowledge base.
+ * Contributors grant a license to use their contributions within the knowledge base.
 
 ---------------------------------
 
 # Resources
 
  * https://twitter.com/jaekwon/status/1676530097308966912?s=20
-“
