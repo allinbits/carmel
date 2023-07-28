@@ -57,7 +57,7 @@ Draft spec, please provide feedback in the form of pull requests and issues to g
 
 # Extra B. Truthfulness
 
- * If a false statement is made, punishable up to 2x the reward.
+ * False statements may incur penalties: up to 2x the reward for unclear or inaccurate assertions, and up to 5x for deliberate falsehoods.
  * At any time, either party can create a platform for, or run, a bounty
    program for whistleblowers to testify about false statements made.
  * The moderator decides the rules needed to preserve privacy where appropriate.
