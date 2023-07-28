@@ -2,6 +2,8 @@
 
 Project Lighthouse is conceptually linked to Project Carmel. They may appear as separate entities, but both projects can potentially share similar technical foundations. While Carmel is focused on debates, Lighthouse takes those principles and applies them to the management of a knowledge base. The underlying architecture can be similar, promoting synergies and allowing both projects to benefit from shared enhancements and updates.
 
+A key aspect to underscore is that the backbone of our efforts in Carmel, Lighthouse (and Gno) hinges on both contribution and reputation. I posit that this reputation could be mutually recognized between Carmel and Lighthouse. This cross-recognition could be particularly beneficial in identifying trustworthy experts within specific fields.
+
 Draft spec, please provide feedback in the form of pull requests and issues to github.com/allinbits/carmel.
 
 ## Initial terms
